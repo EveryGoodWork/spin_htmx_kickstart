@@ -1,0 +1,18 @@
+spin_manifest_version = 2
+
+[application]
+name = "spin-htmx-kickstart"
+version = "0.1.0"
+authors = ["Peter Hammond <peter@everygoodwork.online>"]
+description = " A lightweight Spin framework template integrating HTMX for dynamic web applications. Features modular routing, server-side rendering, and HTMX-powered components. Ideal for building interactive, server-driven web experiences with minimal client-side JavaScript."
+
+[[trigger.http]]
+route = "/..."
+component = "spin-htmx-kickstart"
+
+[component.spin-htmx-kickstart]
+source = "target/wasm32-wasi/release/spin_htmx_kickstart.wasm"
+allowed_outbound_hosts = []
+[component.spin-htmx-kickstart.build]
+command = "cargo build --target wasm32-wasi --release"
+watch = ["src/**/*.rs", "Cargo.toml"]

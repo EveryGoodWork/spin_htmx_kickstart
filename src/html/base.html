@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }} - HTMX Template</title>
+    <meta name="description" content="{{ description }}">
+    <link rel="canonical" href="{{ url | safe }}">
+    <link rel="stylesheet" href="https://unpkg.com/missing.css@1.1.2">
+    <link rel="stylesheet" href="https://unpkg.com/missing.css@1.1.2/prism">
+    <script src="https://unpkg.com/htmx.org@2.0.0/dist/htmx.min.js"></script>
+</head>
+<body>
+<header class="navbar" data-overflow-nav="" data-pagefind-body="">
+    <nav class="contents">
+        <div>
+            <button hidden="" aria-hidden="true" type="button" data-nav-expander="" class="iconbutton">
+                ☰
+            </button>
+        </div>
+        <p>
+            <a href="/" class="allcaps">Kickstart</a>
+        </p>
+        <ul role="list">
+            <li><a href="/about/" {% if current_page == "about" %}aria-current="page"{% endif %}>About</a></li>
+            <li><a href="/examples/" {% if current_page == "examples" %}aria-current="page"{% endif %}>Examples</a></li>
+        </ul>
+    </nav>
+</header>
+
+<main>
+    {% block content %}{% endblock %}
+</main>
+
+<footer>
+    <p>
+        <a href="https://github.com/petermhammond" target="_blank" rel="noopener noreferrer">
+            <img src="https://img.shields.io/badge/GitHub-petermhammond-181717?style=for-the-badge&logo=github" alt="GitHub - petermhammond">
+        </a>
+    </p>
+    <p>SPIN HTMX Kickstart by Every Good Work, Inc.</p>
+</footer>
+</body>
+</html>

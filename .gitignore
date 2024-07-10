@@ -1,0 +1,8 @@
+target/
+.spin/
+# Exclude all .toml files
+*.toml
+
+# Include Cargo.toml and spin.toml
+!Cargo.toml
+!spin.toml

@@ -1,0 +1,25 @@
+{% extends "base.html" %}
+
+{% block content %}
+<h1>{{ title }}</h1>
+<p>{{ content | safe }}</p>
+
+<figure>
+    <p class="big">The following is an htmx button:</p>
+    <p class="f-row align-items:center"><button class="big" hx-get="/htmx/server_time" hx-target="next div" hx-swap="innerHTML">HTMX-Load Server Time</button>
+    <aside>
+        <p>This htmx button pulls the contents from a server component <a href="/htmx/server_time" target="_blank"><code>Server Time</code></a> into the next div tag.</p>
+    </aside>
+    <div class="big" id="result"></div>
+</figure>
+<p>This is meant to be a best practices implementation of the following technologies:</p>
+<ul>
+    <li><a href="https://www.rust-lang.org" target="_blank">Rust</a> - Blazingly fast, reliable and memory safe programming language</li>
+    <li><a href="https://www.fermyon.com" target="_blank">Fermyon Spin</a> - Open-source tool for building serverless WebAssembly applications</li>
+    <li><a href="https://www.fermyon.com/platform" target="_blank">Fermyon Cloud</a> - Cloud platform for deploying and scaling WebAssembly applications</li>
+    <li><a href="https://htmx.org" target="_blank">htmx</a> - Lightweight JS library for creating dynamic web applications with HTML attributes</li>
+    <li><a href="https://hyperscript.org" target="_blank">_hyperscript</a> - An easy & approachable language for modern web front-ends</li>
+    <li><a href="https://missing.style/" target="_blank">Missing.css</a> - Minimalist CSS framework of styles and utilities for rapid web development</li>
+    <li><a href="https://prismjs.com" target="_blank">Prism</a> - Lightweight, extensible syntax highlighter for elegant and powerful code styling</li>
+</ul>
+{% endblock %}

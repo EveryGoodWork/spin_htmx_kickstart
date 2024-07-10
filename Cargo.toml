@@ -1,0 +1,17 @@
+[package]
+name = "spin-htmx-kickstart"
+authors = ["Peter Hammond <peter@everygoodwork.online>"]
+description = "A lightweight Spin framework template integrating HTMX for dynamic web applications. Features modular routing, server-side rendering, and HTMX-powered components. Ideal for building interactive, server-driven web experiences with minimal client-side JavaScript."
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+anyhow = "1"
+chrono = "0.4.38"
+spin-sdk = "3.0.1"
+tera = "1.20.0"
+
+[workspace]
