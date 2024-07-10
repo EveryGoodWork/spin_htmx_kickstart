@@ -8,7 +8,7 @@ This is a lightweight Spin framework to kickstart integrating HTMX for dynamic w
 - Server-side rendering
 - Modular routing
 - Minimal client-side JavaScript
-
+- 
 ## Technologies Used
 
 - [Rust](https://www.rust-lang.org) - Blazingly fast, reliable and memory safe programming language
@@ -19,6 +19,12 @@ This is a lightweight Spin framework to kickstart integrating HTMX for dynamic w
 - [Missing.css](https://missing.style/) - Minimalist CSS framework of styles and utilities for rapid web development
 - [Prism](https://prismjs.com) - Lightweight, extensible syntax highlighter for elegant and powerful code styling
 
-SPIN HTMX Kickstart by Every Good Work, Inc.
+## Live Demo
 
+Experience the Kickstart Spin website HTMX Template in action:
+
+[**Kickstart your Spin website - HTMX Template**](https://kickstart-htmx.fermyon.app/)
+
+## Created by:
+SPIN HTMX Kickstart by Every Good Work, Inc.
 [![GitHub - petermhammond](https://img.shields.io/badge/GitHub-petermhammond-181717?style=for-the-badge&logo=github)](https://github.com/petermhammond)
