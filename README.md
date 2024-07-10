@@ -22,9 +22,9 @@ This is a lightweight Spin framework to kickstart integrating HTMX for dynamic w
 ## Live Demo
 
 Experience the Kickstart Spin website HTMX Template in action:
-
-[**Kickstart your Spin website - HTMX Template**](https://kickstart-htmx.fermyon.app/)
+[**Kickstart your Spin website - HTMX Template**](https://spin-htmx-kickstart.fermyon.app/)
 
 ## Created by:
 SPIN HTMX Kickstart by Every Good Work, Inc.
+
 [![GitHub - petermhammond](https://img.shields.io/badge/GitHub-petermhammond-181717?style=for-the-badge&logo=github)](https://github.com/petermhammond)
