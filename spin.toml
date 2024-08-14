@@ -16,3 +16,11 @@ allowed_outbound_hosts = []
 [component.spin-htmx-kickstart.build]
 command = "cargo build --target wasm32-wasi --release"
 watch = ["src/**/*.rs", "Cargo.toml"]
+
+[[trigger.http]]
+route = "/images/..."
+component = "images"
+
+[component.images]
+source = { url = "https://github.com/fermyon/spin-fileserver/releases/download/v0.2.1/spin_static_fs.wasm", digest = "sha256:5f05b15f0f7cd353d390bc5ebffec7fe25c6a6d7a05b9366c86dcb1a346e9f0f" }
+files = [{ source = "images", destination = "/" }]
