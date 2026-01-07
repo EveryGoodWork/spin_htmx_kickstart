@@ -1,0 +1,51 @@
+Name,Description,URL,Category,Cost
+capable-grace-production-ab1c.up.railway.app - Momentum,No description provided,https://capable-grace-production-ab1c.up.railway.app/data/momentum,AI/Agents,$0.0050
+x402-ai-starter-demo.vercel.app - Add,Access to protected content,https://x402-ai-starter-demo.vercel.app/api/add,AI/Agents,$0.0050
+capable-grace-production-ab1c.up.railway.app - Narratives,No description provided,https://capable-grace-production-ab1c.up.railway.app/data/narratives,AI/Agents,$0.0100
+capable-grace-production-ab1c.up.railway.app - Overnight,No description provided,https://capable-grace-production-ab1c.up.railway.app/alpha/overnight,AI/Agents,$0.0100
+pay.lnpay.ai - Resource,Access to protected resource,https://pay.lnpay.ai/resource,AI/Agents,$0.0100
+nanobrain-alpha.vercel.app - Chat,Chat with NanoBrain AI,https://nanobrain-alpha.vercel.app/api/chat,AI/Agents,$0.0100
+capable-grace-production-ab1c.up.railway.app - Executive,No description provided,https://capable-grace-production-ab1c.up.railway.app/alpha/executive,AI/Agents,$0.0200
+x402-cybercentry-private-data-verification.up.railway.app - Verify,Verify any text data using the Cybercentry Private Data Verification (CPDV) API. Returns a proof_id for Zero-Knowledge Proof (ZKP) verification via the proxy endpoint,https://x402-cybercentry-private-data-verification.up.railway.app/verify,AI/Agents,$0.0200
+gifu-server.onrender.com - Random,AI-generated random GIF or image search with creative prompts,https://gifu-server.onrender.com/api/x402/search/random,AI/Agents,$0.0300
+x402.slinkylayer.ai - Text Anonymize,Accepts JSON input and anonymizes sensitive information in the provided text using the selected provider (Azure or others).,https://x402.slinkylayer.ai/api/v1/proxy/2ce94988-5413-4458-bac6-5c523d998dc5/text-anonymize,AI/Agents,$0.0500
+jesuschrist.sh - Chat,Talk to Jesus,https://www.jesuschrist.sh/chat,AI/Agents,$0.1000
+x402factory.ai - Bridge,"Base → Solana USDC microbridge discovery. Default example uses 1.00 USDC deposited to the Base bridge wallet. Provide a Solana receiver address and an amount (min 0.01 USDC, max 50.00 USDC, steps o...",https://x402factory.ai/base/bridge,AI/Agents,$1.0000
+brown-voluntary-aardwolf-402.mypinata.cloud - Cid,Payment of 10000 USDC for Payment for Circle Technology Services LLC - One-way NDA - Early Access Program NDA,https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafkreicsgj2jc5pbjulciyltlnwhhwwgc2ufs4woqm2t2u2bm5zo5gsvmy,Content/Storage,$0.0100
+brown-voluntary-aardwolf-402.mypinata.cloud - Cid,Payment of 20000 USDC for Payment for Web3Bridge Cohort XIV Curriculum,https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafybeibk2qyibsbe5qrrp3pdqfo3h2azltj2hdnd5jwflspyg4ihblctw4,Cross-Chain,$0.0200
+x402.silverbackdefi.app - Trending Tokens,No description provided,http://x402.silverbackdefi.app/api/v1/trending-tokens,DeFi,$0.0010
+x402.silverbackdefi.app - Gas Price,No description provided,http://x402.silverbackdefi.app/api/v1/gas-price,DeFi,$0.0010
+x402.silverbackdefi.app - Dex Metrics,No description provided,http://x402.silverbackdefi.app/api/v1/dex-metrics,DeFi,$0.0010
+x402.silverbackdefi.app - Top Coins,No description provided,http://x402.silverbackdefi.app/api/v1/top-coins,DeFi,$0.0010
+x402.silverbackdefi.app - Top Protocols,No description provided,http://x402.silverbackdefi.app/api/v1/top-protocols,DeFi,$0.0010
+x402.silverbackdefi.app - Top Pools,No description provided,http://x402.silverbackdefi.app/api/v1/top-pools,DeFi,$0.0010
+x402.silverbackdefi.app - Swap Quote,No description provided,http://x402.silverbackdefi.app/api/v1/swap-quote,DeFi,$0.0010
+x402.silverbackdefi.app - Pool Analysis,No description provided,http://x402.silverbackdefi.app/api/v1/pool-analysis,DeFi,$0.0020
+x402.silverbackdefi.app - Defi Yield,No description provided,http://x402.silverbackdefi.app/api/v1/defi-yield,DeFi,$0.0020
+x402.silverbackdefi.app - Correlation Matrix,No description provided,http://x402.silverbackdefi.app/api/v1/correlation-matrix,DeFi,$0.0050
+x402.silverbackdefi.app - Arbitrage Scanner,No description provided,http://x402.silverbackdefi.app/api/v1/arbitrage-scanner,DeFi,$0.0050
+x402.silverbackdefi.app - Technical Analysis,No description provided,http://x402.silverbackdefi.app/api/v1/technical-analysis,DeFi,$0.0100
+nacian.finance - Top Pools By Tvl,"Access top liquidity pools by TVL across multiple chains (Arbitrum, Base, Ethereum). Tokens do not necessarily need to be token0 and token1 respectively in the pool, they are reordered automatically.",https://nacian.finance/api/x402/pools/top-pools-by-tvl,DeFi,$0.0100
+nacian.finance - Top Pools By Apr,"Calculate APR for liquidity pools across multiple chains (Arbitrum, Base, Ethereum). Tokens do not necessarily need to be token0 and token1 respectively in the pool, they are reordered automaticall...",https://nacian.finance/api/x402/pools/top-pools-by-apr,DeFi,$0.0200
+x402.silverbackdefi.app - Swap,No description provided,http://x402.silverbackdefi.app/api/v1/swap,DeFi,$0.0500
+news-summarizer-x402.vercel.app - Summarize,No description provided,http://news-summarizer-x402.vercel.app/summarize,News,$0.0050
+padelmaps.org - Search,Search news articles,https://padelmaps.org/api/x402-tools/news/search,News,$0.0100
+padelmaps.org - Top,Get top Hacker News stories,https://padelmaps.org/api/x402-tools/hackernews/top,News,$0.0100
+api.itsgloria.ai - News,"Get the latest news about a covered news topic, delivering the most recent 10 headlines.",https://api.itsgloria.ai/news,News,$0.0300
+agents.402box.io - Prediction Markets,"AI-powered prediction markets intelligence agent (powered by Perplexity) - Get the latest news, trends, and real-time updates affecting prediction markets on Polymarket and Kalshi",https://agents.402box.io/prediction_markets,News,$0.0300
+agents.402box.io - X Searcher,"AI-powered X/Twitter search agent - Get real-time trends, news, and social media insights",https://agents.402box.io/x_searcher,News,$0.0500
+api.itsgloria.ai - News By Keyword,"Get the news about a topic by keyword, delivering the most recent 20 headlines.",https://api.itsgloria.ai/news-by-keyword,News,$0.1000
+acp-x402.virtuals.io - Acp Budget,acp job budget ($0.001),http://acp-x402.virtuals.io/acp-budget,Other,$0.0010
+lowpaymentfee.com - 50,Premium API Access,https://lowpaymentfee.com/api/v1/item/50,Other,$0.0200
+x402.kirha.com - Search,Ask anything. Get Context from S-tier providers > https://app.kirha.com/providers > Payment at the granularity of the data point.,http://x402.kirha.com/search,Other,$0.1000
+api.grove.city - Fund,Fund your Grove API Account with 1 USDC to tip creators on the internet.,https://api.grove.city/v1/fund,Other,$1.0000
+dev-api2.xhashtag.io - Twitter Reach,Trend Cabal - X Swarm View Blast,https://dev-api2.xhashtag.io/api/v1/proxy/0ccb65df-d937-423c-946b-6967bf94a2f7/twitter-reach,Social Media,$0.0010
+minifetch.com - Url Preview,"Extracts a light, token-efficient preview of a URL: title, description, and image (only)",https://minifetch.com/api/v1/x402/extract/url-preview,Trading/Crypto,$0.0010
+x402.mode.network - Indicators,Mode-x402 is a complete library of signals and indicators for intelligent trading agents,https://x402.mode.network/ta/indicators,Trading/Crypto,$0.0010
+minifetch.com - Url Content,"Extracts a clean, token-efficient content summary as markdown from a URL. Removes ads, nav, scripts. Much more efficient than raw HTML fetches for LLMs",https://minifetch.com/api/v1/x402/extract/url-content,Trading/Crypto,$0.0020
+padelmaps.org - Price,Get cryptocurrency price and market data,https://padelmaps.org/api/x402-tools/crypto/price,Trading/Crypto,$0.0100
+x402-cybercentry-quantum-cryptography-verification.up.railway.app - Verify,Verify and encrypt data using the Cybercentry Quantum Cryptography Verification (CQCV) API with x402 payment protocol. Returns encrypted data with record ID and decryption URL,https://x402-cybercentry-quantum-cryptography-verification.up.railway.app/verify,Trading/Crypto,$0.0200
+x402.aiape.tech - Signals,No description provided,https://x402.aiape.tech/signals,Trading/Crypto,$0.1000
+minifetch.com - Url Metadata,"Extracts rich structured metadata from a URL: title, description, og/twitter tags, json-ld, images, headings, response headers, and more. Perfect for SEO research or metadata indexing & analysis",https://minifetch.com/api/v1/x402/extract/url-metadata,Web Scraping,$0.0020
+brown-voluntary-aardwolf-402.mypinata.cloud - Cid,Payment of 10000 USDC for Test Premium Content,https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafkreibzmugzf5b4u3hn7ueovomqfsypnsf6u67ckmtqwefjg6i3ndwvqq,Web Scraping,$0.0100
+brown-voluntary-aardwolf-402.mypinata.cloud - Cid,Payment of 10000 USDC for Test Premium Content,https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafkreihvajece2u7gnp7vdmuyrpj5btogxedzssfr4auh3lje527h6rztu,Web Scraping,$0.0100
