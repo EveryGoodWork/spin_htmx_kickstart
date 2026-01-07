@@ -1,0 +1,51 @@
+URL,Title,Description,Price_USDC,Network
+https://minifetch.com/api/v1/x402/extract/url-preview,Url Preview,"Extracts a light, token-efficient preview of a URL: title, description, and image (only)",$0.001000,base
+https://x402.mode.network/ta/indicators,Indicators,Mode-x402 is a complete library of signals and indicators for intelligent trading agents,$0.001000,base
+http://acp-x402.virtuals.io/acp-budget,Acp Budget,acp job budget ($0.001),$0.001000,base
+https://dev-api2.xhashtag.io/api/v1/proxy/0ccb65df-d937-423c-946b-6967bf94a2f7/twitter-reach,Twitter Reach,Trend Cabal - X Swarm View Blast,$0.001000,solana
+http://x402.silverbackdefi.app/api/v1/trending-tokens,Trending Tokens,No description provided,$0.001000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/gas-price,Gas Price,No description provided,$0.001000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/dex-metrics,Dex Metrics,No description provided,$0.001000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/top-coins,Top Coins,No description provided,$0.001000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/top-protocols,Top Protocols,No description provided,$0.001000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/top-pools,Top Pools,No description provided,$0.001000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/swap-quote,Swap Quote,No description provided,$0.001000,eip155:8453
+https://minifetch.com/api/v1/x402/extract/url-content,Url Content,"Extracts a clean, token-efficient content summary as markdown from a URL. Removes ads, nav, scripts. Much more efficient than raw HTML fetches for LLMs",$0.002000,base
+https://minifetch.com/api/v1/x402/extract/url-metadata,Url Metadata,"Extracts rich structured metadata from a URL: title, description, og/twitter tags, json-ld, images, headings, response headers, and more. Perfect for SEO research or metadata indexing & analysis",$0.002000,base
+http://x402.silverbackdefi.app/api/v1/pool-analysis,Pool Analysis,No description provided,$0.002000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/defi-yield,Defi Yield,No description provided,$0.002000,eip155:8453
+http://news-summarizer-x402.vercel.app/summarize,Summarize,No description provided,$0.005000,base
+https://capable-grace-production-ab1c.up.railway.app/data/momentum,Momentum,No description provided,$0.005000,eip155:8453
+https://x402-ai-starter-demo.vercel.app/api/add,Add,Access to protected content,$0.005000,base-sepolia
+http://x402.silverbackdefi.app/api/v1/correlation-matrix,Correlation Matrix,No description provided,$0.005000,eip155:8453
+http://x402.silverbackdefi.app/api/v1/arbitrage-scanner,Arbitrage Scanner,No description provided,$0.005000,eip155:8453
+https://padelmaps.org/api/x402-tools/news/search,Search,Search news articles,$0.010000,base
+https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafkreibzmugzf5b4u3hn7ueovomqfsypnsf6u67ckmtqwefjg6i3ndwvqq,Cid,Payment of 10000 USDC for Test Premium Content,$0.010000,base-sepolia
+https://capable-grace-production-ab1c.up.railway.app/data/narratives,Narratives,No description provided,$0.010000,eip155:8453
+https://capable-grace-production-ab1c.up.railway.app/alpha/overnight,Overnight,No description provided,$0.010000,eip155:8453
+https://padelmaps.org/api/x402-tools/crypto/price,Price,Get cryptocurrency price and market data,$0.010000,base
+https://padelmaps.org/api/x402-tools/hackernews/top,Top,Get top Hacker News stories,$0.010000,base
+https://pay.lnpay.ai/resource,Resource,Access to protected resource,$0.010000,base
+https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafkreihvajece2u7gnp7vdmuyrpj5btogxedzssfr4auh3lje527h6rztu,Cid,Payment of 10000 USDC for Test Premium Content,$0.010000,base-sepolia
+https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafkreicsgj2jc5pbjulciyltlnwhhwwgc2ufs4woqm2t2u2bm5zo5gsvmy,Cid,Payment of 10000 USDC for Payment for Circle Technology Services LLC - One-way NDA - Early Access Program NDA,$0.010000,base-sepolia
+https://nanobrain-alpha.vercel.app/api/chat,Chat,Chat with NanoBrain AI,$0.010000,base
+http://x402.silverbackdefi.app/api/v1/technical-analysis,Technical Analysis,No description provided,$0.010000,eip155:8453
+https://nacian.finance/api/x402/pools/top-pools-by-tvl,Top Pools By Tvl,"Access top liquidity pools by TVL across multiple chains (Arbitrum, Base, Ethereum). Tokens do not necessarily need to be token0 and token1 respectively in the pool, they are reordered automatically.",$0.010000,base
+https://brown-voluntary-aardwolf-402.mypinata.cloud/x402/cid/bafybeibk2qyibsbe5qrrp3pdqfo3h2azltj2hdnd5jwflspyg4ihblctw4,Cid,Payment of 20000 USDC for Payment for Web3Bridge Cohort XIV Curriculum,$0.020000,base-sepolia
+https://capable-grace-production-ab1c.up.railway.app/alpha/executive,Executive,No description provided,$0.020000,eip155:8453
+https://x402-cybercentry-quantum-cryptography-verification.up.railway.app/verify,Verify,Verify and encrypt data using the Cybercentry Quantum Cryptography Verification (CQCV) API with x402 payment protocol. Returns encrypted data with record ID and decryption URL,$0.020000,base
+https://x402-cybercentry-private-data-verification.up.railway.app/verify,Verify,Verify any text data using the Cybercentry Private Data Verification (CPDV) API. Returns a proof_id for Zero-Knowledge Proof (ZKP) verification via the proxy endpoint,$0.020000,base
+https://nacian.finance/api/x402/pools/top-pools-by-apr,Top Pools By Apr,"Calculate APR for liquidity pools across multiple chains (Arbitrum, Base, Ethereum). Tokens do not necessarily need to be token0 and token1 respectively in the pool, they are reordered automatically. Price range must be specified based on the ratio of token0 / token1. For example, if the provided...",$0.020000,base
+https://lowpaymentfee.com/api/v1/item/50,50,Premium API Access,$0.020000,base
+https://api.itsgloria.ai/news,News,"Get the latest news about a covered news topic, delivering the most recent 10 headlines.",$0.030000,base
+https://agents.402box.io/prediction_markets,Prediction Markets,"AI-powered prediction markets intelligence agent (powered by Perplexity) - Get the latest news, trends, and real-time updates affecting prediction markets on Polymarket and Kalshi",$0.030000,base
+https://gifu-server.onrender.com/api/x402/search/random,Random,AI-generated random GIF or image search with creative prompts,$0.030000,base
+https://x402.slinkylayer.ai/api/v1/proxy/2ce94988-5413-4458-bac6-5c523d998dc5/text-anonymize,Text Anonymize,Accepts JSON input and anonymizes sensitive information in the provided text using the selected provider (Azure or others).,$0.050000,base
+https://agents.402box.io/x_searcher,X Searcher,"AI-powered X/Twitter search agent - Get real-time trends, news, and social media insights",$0.050000,base
+http://x402.silverbackdefi.app/api/v1/swap,Swap,No description provided,$0.050000,eip155:8453
+https://x402.aiape.tech/signals,Signals,No description provided,$0.100000,base
+https://api.itsgloria.ai/news-by-keyword,News By Keyword,"Get the news about a topic by keyword, delivering the most recent 20 headlines.",$0.100000,base
+http://x402.kirha.com/search,Search,Ask anything. Get Context from S-tier providers > https://app.kirha.com/providers > Payment at the granularity of the data point.,$0.100000,base
+https://www.jesuschrist.sh/chat,Chat,Talk to Jesus,$0.100000,base
+https://api.grove.city/v1/fund,Fund,Fund your Grove API Account with 1 USDC to tip creators on the internet.,$1.000000,base
+https://x402factory.ai/base/bridge,Bridge,"Base → Solana USDC microbridge discovery. Default example uses 1.00 USDC deposited to the Base bridge wallet. Provide a Solana receiver address and an amount (min 0.01 USDC, max 50.00 USDC, steps of 0.01) to create a concrete bridge quote. The bridge charges a 2.5% commission; the remainder is de...",$1.000000,base
